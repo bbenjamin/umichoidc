@@ -1,0 +1,7 @@
+name = wwsauth
+description = "Wolverine Web Services Authentication."
+
+dependencies[] = ctools
+dependencies[] = openid_connect
+
+core = 7.x
